@@ -1,4 +1,4 @@
-## Notice: The latest link is moved to https://github.com/ncbi/SuPER now.
+## Notice: The latest link is https://github.com/ncbi/SuPER.
 
 # SuPER
 **Su**bgenomic mRNA **P**osition **E**xploration with **R**NA-seq
